@@ -1,5 +1,5 @@
 # Lord-Commander-SAO
-A shitty addon of the character Lord Commander from Final Space
+A Shitty Add-On of the character Lord Commander from Final Space
 
 ![alt text](https://raw.githubusercontent.com/cybr1d-cybr1d/Lord-Commander-SAO/master/Lord_Commander_Front.PNG?raw=true)
 
